@@ -1,0 +1,2 @@
+# YOLOV8
+YOLOv8v10简单配置
